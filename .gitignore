@@ -1,0 +1,7 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore specific Jupyter notebooks
+facial_model.ipynb
+facialdetect_autism.ipynb
+facialdetect_autism-Copy1.ipynb
